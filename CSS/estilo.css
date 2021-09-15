@@ -1,8 +1,10 @@
 body{
-    background-color: lightskyblue;
+    background-color: rgb(167, 166, 226);
 }
 .col{
-    background-color: #ffffff;
+    background-color: #aaa6db
+
+    ;
 }
 .container{
     margin-top:20px;
